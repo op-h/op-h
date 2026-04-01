@@ -1,9 +1,7 @@
 <h1 align="left">Hussein Dheyaa</h1>
 
 <p align="left">
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
 <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D20%26pause%3D1000%26color%3D45ff45%26width%3D435%26lines%3DCyber%2BSecurity%2BEngineering%2BStudent%3BNetwork%2BSecurity%2BEnthusiast%3BCTF%2BPlayer%2B%26%2BLearner" alt="Typing SVG" />
-</a>
 </p>
 
 Welcome to my GitHub profile. I am an undergraduate student specializing in Cyber Security at Middle Technical University (Iraq). My primary focus is on understanding system vulnerabilities, network security, and practical defense strategies. I use this space to track my projects and connect with the global tech community.
