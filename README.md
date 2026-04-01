@@ -41,7 +41,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Collaboration-Seeking_worldwide_CTF_teammates-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=FFFFFF&color=FFFFFF" />
+  <img src="https://img.shields.io/badge/Collaboration-Co_Founder_OP_Security_team-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=FFFFFF&color=FFFFFF" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Knowledge_Exchange-Always_learning_and_sharing-FF4500?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=FF4500&color=FF4500" />
