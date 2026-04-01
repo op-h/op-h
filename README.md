@@ -1,5 +1,5 @@
 <h1 align="left">HUSSEIN DHEYAA</h1>
-<h3 align="left">Cyber Security Engineering Student &nbsp;|&nbsp; 🎓 MTU</h3>
+<h3 align="left">Cyber Security Engineer &nbsp;|&nbsp; MTU</h3>
 <p align="left"><code>SOC Analyst | Threat Hunter | Digital Forensics</code></p>
 
 <pre>$ whoami --skills</pre>
