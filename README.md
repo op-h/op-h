@@ -1,72 +1,60 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/117567734?v=4" width="140" style="border-radius:50%" alt="op-h avatar" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=45FF45&center=true&vCenter=true&width=560&lines=SOC+Analyst+%7C+Threat+Hunter+%7C+Incident+Responder;I+read+an+alert+by+asking+how+I%27d+have+caused+it.;Co-founder%2C+OP+Security+Team." alt="typing banner" />
+
+<img src="https://avatars.githubusercontent.com/u/117567734?v=4" width="120" style="border-radius:50%;margin-top:12px" alt="op-h avatar" />
+
+### Hussein Dheyaa — `op-h`
+📍 Baghdad, Iraq
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Hussein Dheyaa
-**SOC Analyst · Threat Hunter · Incident Responder**
-
-📍 Baghdad, Iraq
-📧 [husseindeaaj@gmail.com](mailto:husseindeaaj@gmail.com)
-🔗 [github.com/op-h](https://github.com/op-h)
-💼 [linkedin.com/in/husseindeaa](https://www.linkedin.com/in/husseindeaa/)
-✈️ [t.me/op_h11](https://t.me/op_h11)
-🚩 [tryhackme.com/p/oph](https://tryhackme.com/p/oph)
-
-Blue team analyst who came up through the offensive side — a couple years
-of CTF work in web exploitation, crypto, and reverse engineering — so I
-read an alert by asking how I'd have caused it. I also build CTF
-challenges, not just solve them. Co-founder, **OP Security team**.
-
-</td>
-<td width="50%" valign="top">
+<br>
 
 ```
-op-h@kali
-──────────────────────────────
-OS:        Cybersecurity B.E., MTU (2023–2027)
-Role:      SOC Analyst / Threat Hunter
-Shell:     Kali Linux, Docker
-Kernel:    1st place / 1200 — MoI Cyber CTF Final
+op-h@security
+─────────────────────────────────────────────────────────
+OS:................. Kali Linux, Windows
+Host:............... Ministry of Interior — Cybersecurity Directorate
+Kernel:.............. SOC Analyst / Threat Hunter / Incident Responder
+Uptime:.............. 2y 10m in cybersecurity (B.E., MTU — since Oct 2023)
+Achievement:......... 1st / 1200 — MoI Cyber CTF Final (Jul 2026)
 
-Languages: Python, SQL, C/C++
-Blue Team: Splunk, Snort, Elastic, ATT&CK Matrix
-Red Team:  Nmap, Burp Suite
-AI Sec:    Prompt Injection, LLM Jailbreaking
+Languages.Code:...... Python, SQL, C/C++
+Languages.Data:....... Bash, HTML, CSS, JSON
+Blue Team:............ Splunk, Snort, Elastic, ATT&CK Matrix
+Red Team:............. Nmap, Burp Suite, Metasploit
+Recon/Forensics:...... Wireshark, Docker
 
-Uptime:    2023 ── present
+Contact
+Email:................ husseindeaaj@gmail.com
+LinkedIn:............. husseindeaa
+Telegram:............. op_h11
+TryHackMe:............ oph
+GitHub:............... op-h
 ```
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3EFF6C)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=3EFF6C)
-![C](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge&logo=c&logoColor=3EFF6C)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=3EFF6C)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=3EFF6C)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=3EFF6C)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=3EFF6C)
-![Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=3EFF6C)
+<sub>Skills</sub>
+<br>
+<img src="https://img.shields.io/badge/Kali_Linux-4b5563?style=flat&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-4b5563?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-4b5563?style=flat&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-4b5563?style=flat&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4b5563?style=flat&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-4b5563?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4b5563?style=flat&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/CTF-4b5563?style=flat&logo=hackthebox&logoColor=white" />
 
 </div>
 
 ---
 
-### GitHub stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=op-h&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3EFF6C&icon_color=3EFF6C&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=op-h&layout=compact&hide_border=true&bg_color=0D1117&title_color=3EFF6C&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=op-h&show_icons=true&hide_border=true&bg_color=0D1117&title_color=45FF45&icon_color=45FF45&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=op-h&layout=compact&hide_border=true&bg_color=0D1117&title_color=45FF45&text_color=C9D1D9" />
 
 </div>
 
@@ -94,6 +82,14 @@ Uptime:    2023 ── present
 ---
 
 <div align="center">
+
+<a href="https://t.me/op_h11"><img src="https://img.shields.io/badge/-Telegram-1A1A1A?style=flat&logo=telegram&logoColor=2CA5E0" /></a>
+<a href="mailto:husseindeaaj@gmail.com"><img src="https://img.shields.io/badge/-Email-1A1A1A?style=flat&logo=gmail&logoColor=D14836" /></a>
+<a href="https://github.com/op-h"><img src="https://img.shields.io/badge/-GitHub-1A1A1A?style=flat&logo=github&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/oph"><img src="https://img.shields.io/badge/-TryHackMe-1A1A1A?style=flat&logo=tryhackme&logoColor=88cc14" /></a>
+<a href="https://www.linkedin.com/in/husseindeaa/"><img src="https://img.shields.io/badge/-LinkedIn-1A1A1A?style=flat&logo=linkedin&logoColor=0A66C2" /></a>
+
+<br><br>
 
 ```
   ____  _____        _    _
